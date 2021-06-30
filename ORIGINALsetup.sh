@@ -1,7 +1,7 @@
 INMAP_SANDBOX_ROOT=$(pwd)
-INMAP_ROOT_DIR=/Users/Sam/Desktop/inmap
-SLCASpatialCache=/Users/Sam/Desktop/.SLCASpatialCache
-nei2014Dir=/Users/Sam/Desktop/nei2014
+INMAP_ROOT_DIR=/Users/emmavukelj/evookelj_inmap
+SLCASpatialCache=/Users/emmavukelj/.SLCASpatialCache
+nei2014Dir=/Users/emmavukelj/nei2014
 export INMAP_SANDBOX_ROOT
 export INMAP_ROOT_DIR
 export SLCASpatialCache
