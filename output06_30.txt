@@ -1,0 +1,121 @@
+2021/06/30 23:40:29 slca: processing NEI for sector test, aqm isrm
+2021/06/30 23:40:29 	[Grid 0] [Concentration=0.03]
+2021/06/30 23:40:29 		[Population IncomeDec0] 41512.00 ppl --> 1356.18 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 2488.00 ppl --> 81.28 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 60000.00 ppl --> 1960.17 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 1] [Concentration=0.06]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 2] [Concentration=0.09]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 3] [Concentration=0.05]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 4] [Concentration=0.08]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 5] [Concentration=0.05]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 6] [Concentration=0.07]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 7] [Concentration=0.11]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 8] [Concentration=0.05]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 	[Grid 9] [Concentration=0.03]
+2021/06/30 23:40:29 		[Population IncomeDec0] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec1] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec2] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec3] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec4] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec5] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec6] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec7] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec8] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 		[Population IncomeDec9] 0.00 ppl --> 0.00 exposure
+2021/06/30 23:40:29 Pop name: IncomeDec0	Exposure: 1356.18
+2021/06/30 23:40:29 Pop name: IncomeDec1	Exposure: 81.28
+2021/06/30 23:40:29 Pop name: IncomeDec2	Exposure: 1960.17
+2021/06/30 23:40:29 Pop name: IncomeDec3	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec6	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec8	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec4	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec5	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec7	Exposure: 0.00
+2021/06/30 23:40:29 Pop name: IncomeDec9	Exposure: 0.00
